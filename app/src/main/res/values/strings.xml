@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DragonBallAndroid</string>
+    <string name="hello_world_vertical">hello_world_vertical</string>
+    <string name="hello_world_horizontal">hello_world_horizontal</string>
 </resources>
